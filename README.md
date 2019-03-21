@@ -1,5 +1,5 @@
 # Mockup of a landing page
-[Live Demo](https://sktd-5fc52.firebaseapp.com/)
+[Live Demo](https://mmichaellin.github.io/MockupC/)
 
 ## Notes
 
